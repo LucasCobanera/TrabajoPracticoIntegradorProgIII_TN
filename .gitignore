@@ -1,0 +1,18 @@
+# Compilados de C# / .NET
+bin/
+obj/
+configNginx/
+
+# Configuraciones de editores / IDEs
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos del sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
